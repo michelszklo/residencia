@@ -4,7 +4,7 @@ dados_sinasc_ <- read.csv2("Base_sinasc_.csv")
 # Criar intervalos para a escolaridade da mãe
 dados_sinasc_$intervalo_esc <- cut(dados_sinasc_$ESCMAE, 
                                   breaks = c(-Inf, 1, 4, 8, 12, Inf),
-                                  labels = c("Nenhuma", "1-3 anos", "4-7 anos", "8-11 anos", "12 e mais"), right = FALSE)
+                                  labels = c("Nenhuma", "1-3 anos", "4-7 anos", "8-11 anos", "12 e mais"))
 
 # Criar um novo dataframe para armazenar os resultados do indicador
 indicador_escolaridade <- data.frame()
