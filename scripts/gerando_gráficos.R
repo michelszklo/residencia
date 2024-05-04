@@ -1,36 +1,41 @@
 library(ggplot2)
 
-# Gr·fico para peso
+# Gr√°fico para peso
 grafico_peso <- ggplot(indicador_escolaridade, aes(x = intervalo_esc, y = media_peso, fill = as.factor(ano))) +
   geom_bar(stat = "identity", position = "dodge") +
-  labs(title = "MÈdia de peso por intervalo de escolaridade da m„e",
-       x = "Intervalo de escolaridade da m„e",
-       y = "MÈdia de peso",
+  labs(title = "M√©dia de peso por intervalo de escolaridade da m√£e",
+       x = "Intervalo de escolaridade da m√£e",
+       y = "M√©dia de peso",
        fill = "Ano") +
   scale_fill_manual(values = c("2010" = "skyblue", "2011" = "lightgreen")) +
   theme_minimal()
 
-# Gr·fico para APGAR1
+# Gr√°fico para APGAR1
 grafico_apgar1 <- ggplot(indicador_escolaridade, aes(x = intervalo_esc, y = media_apgar1, fill = as.factor(ano))) +
   geom_bar(stat = "identity", position = "dodge") +
-  labs(title = "MÈdia de APGAR1 por intervalo de escolaridade da m„e",
-       x = "Intervalo de escolaridade da m„e",
-       y = "MÈdia de APGAR1",
+  labs(title = "M√©dia de APGAR1 por intervalo de escolaridade da m√£e",
+       x = "Intervalo de escolaridade da m√£e",
+       y = "M√©dia de APGAR1",
        fill = "Ano") +
   scale_fill_manual(values = c("2010" = "skyblue", "2011" = "lightgreen")) +
   theme_minimal()
 
-# Gr·fico para APGAR5
+# Gr√°fico para APGAR5
 grafico_apgar5 <- ggplot(indicador_escolaridade, aes(x = intervalo_esc, y = media_apgar5, fill = as.factor(ano))) +
   geom_bar(stat = "identity", position = "dodge") +
-  labs(title = "MÈdia de APGAR5 por intervalo de escolaridade da m„e",
-       x = "Intervalo de escolaridade da m„e",
-       y = "MÈdia de APGAR5",
+  labs(title = "M√©dia de APGAR5 por intervalo de escolaridade da m√£e",
+       x = "Intervalo de escolaridade da m√£e",
+       y = "M√©dia de APGAR5",
        fill = "Ano") +
   scale_fill_manual(values = c("2010" = "skyblue", "2011" = "lightgreen")) +
   theme_minimal()
 
-# Exibir os gr·ficos
+# Exibir os gr√°ficos
 print(grafico_peso)
 print(grafico_apgar1)
 print(grafico_apgar5)
+
+
+ggsave("grafico_peso.png", plot = grafico_peso, width = 8, height = 6, units = "in", dpi = 300)
+ggsave("grafico_apgar1.png", plot = grafico_apgar1, width = 8, height = 6, units = "in", dpi = 300)
+ggsave("grafico_apgar5.png", plot = grafico_apgar5, width = 8, height = 6, units = "in", dpi = 300)
