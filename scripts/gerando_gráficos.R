@@ -1,5 +1,7 @@
 library(ggplot2)
 
+indicador_escolaridade <- na.omit(indicador_escolaridade)
+
 # Gráfico para peso
 grafico_peso <- ggplot(indicador_escolaridade, aes(x = intervalo_esc, y = media_peso, fill = as.factor(ano))) +
   geom_bar(stat = "identity", position = "dodge") +
