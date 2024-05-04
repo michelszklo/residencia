@@ -7,7 +7,7 @@ library(microdatasus)
 dados_sinasc = fetch_datasus(year_start = 2010, year_end = 2011, 
                              information_system = "SINASC",
                              vars = c("CODMUNNASC", "PESO",
-                                      "APGAR1", "APGAR5", "DTNASC"))
+                                      "APGAR1", "APGAR5", "ESCMAE", "DTNASC"))
 
 dados_sinasc$ano = substr(dados_sinasc$DTNASC, 
                       start = nchar(dados_sinasc$DTNASC)-3, 
