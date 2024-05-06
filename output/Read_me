@@ -1,3 +1,5 @@
 Read me do Output
 
 Base_sinasc.csv: Base que contém informações por ano e nascimento a nível de município.
+
+Base_sim.csv: Base que contém informações por ano e causa básica da morte a nível de município.
