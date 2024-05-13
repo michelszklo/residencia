@@ -1,1 +1,12 @@
 Read_me dos Inputs
+
+Apgar1.csv: Dados a nível de município da variável Apgar 1 por ano.
+
+Apgar5.csv: Dados a nível de município da variável Apgar 5 por ano.
+
+Peso_ao_nascer.csv: Dados a nível de município da variável peso ao nascer por ano.
+
+População.csv: Quantidade de habitantes a nível de município por ano.
+
+Basesim.csv: Dados a nível de município da quantidade de mortes por capítulo.
+
