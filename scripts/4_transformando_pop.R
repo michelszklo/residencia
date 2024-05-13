@@ -1,4 +1,4 @@
-#modificando a planilha populaÁ„o para o padr„o das demais
+#modificando a planilha popula√ß√£o para o padr√£o das demais
 
 library(tidyr)
 library(dplyr)
