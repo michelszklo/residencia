@@ -3,3 +3,5 @@ Read me dos Scripts
 Extrair_Sim_munic: Base que pega a base "SIM-DO" do datasus e transforma em uma base a nível de munícipio sobre a causa básica da morte
 
 Extrair_Sinasc_munic: Base que pega a base "SINASC" do datasus e transforma em uma base a nível de munícipio sobre características do nascimento da criança
+
+Criando_indicadores: Transforma os dados de apgar em indicadores médios
