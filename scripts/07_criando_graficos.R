@@ -1,4 +1,4 @@
-#criando gr·ficos
+#criando gr√°ficos
 
 # Carregar pacotes
 library(tidyr)
@@ -16,17 +16,17 @@ for (ano in anos) {
   # Filtra os dados para o ano atual
   dados_ano <- subset(top_municipios, Ano == ano)
   
-  # Cria o gr·fico de barras para o ano atual
+  # Cria o gr√°fico de barras para o ano atual
   p <- ggplot(dados_ano, aes(x = Municipio, y = Taxa_Mortalidade_Geral, fill = Municipio)) +
     geom_bar(stat = "identity", show.legend = TRUE) +
-    labs(title = paste("Ano", ano), y = "Taxa de Mortalidade", fill = "MunicÌpio") +
+    labs(title = paste("Ano", ano), y = "Taxa de Mortalidade", fill = "Munic√≠pio") +
     theme_minimal() +
-    theme(axis.text.x = element_blank(),  # Oculta os rÛtulos do eixo x
-          legend.position = "right")  # Posiciona a legenda ‡ direita
+    theme(axis.text.x = element_blank(),  # Oculta os r√≥tulos do eixo x
+          legend.position = "right")  # Posiciona a legenda √† direita
   
   # Define o nome do arquivo a ser salvo
   nome_arquivo <- paste("grafico_", ano, ".png", sep="")
   
-  # Salva o gr·fico atual como um arquivo PNG
+  # Salva o gr√°fico atual como um arquivo PNG
   ggsave(nome_arquivo, plot = p)
 }
