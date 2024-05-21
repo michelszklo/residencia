@@ -31,4 +31,4 @@ grafico = base_mapas_comparativa %>%
   ggtitle('Taxa de Mortalidade')
 grafico
 
-ggsave('Mapa_mortalide.png')
+ggsave('Mapa_mortalidade.png')
