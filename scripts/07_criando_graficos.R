@@ -4,6 +4,7 @@
 library(tidyr)
 library(ggplot2)
 
+# Faltou comando para puxar a base taxa_mortalidade_geral
 
 top_municipios <- taxas_mortalidade_geral %>%
   arrange(Ano, desc(Taxa_Mortalidade_Geral)) %>%
