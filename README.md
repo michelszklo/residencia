@@ -16,3 +16,5 @@ O fluxograma é organizado em várias etapas, com diferentes formas representand
 - Losangos Brancos: Representam outputs ou produtos finais.
 
 Em resumo, a imagem acima ilustra o processo detalhado que começa com a extração e transformação dos dados, passa pela unificação das bases de dados, criação de indicadores e culmina na análise dos dados, que inclui a geração de gráficos e mapas para visualização dos resultados. Este caminho lógico, colaborativamente elaborado e visualizado na plataforma Miro, estrutura a execução do projeto de maneira clara e organizada.
+
+### Análise dos dados
