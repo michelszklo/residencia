@@ -4,10 +4,10 @@ _Repositório criado para o trabalho a ser realizado no workshop de programaçã
 
 A desigualdade de saúde é um problema crítico que prevalece nos países em desenvolvimento, incluindo o Brasil. O uso dos dados de nascimentos e mortes coletados por meio dos sistemas SINASC e SIM do DATASUS ajudará a rastrear e analisar como as tendências da desigualdade de saúde nos municípios do Brasil mudaram ao longo da última década. A análise cobrirá o período de 2010 até o 2022, fornecendo uma imagem abrangente e atualizada das mudanças e tendências gerais em termos de saúde pública no Brasil. A unidade de análise é constituída por municípios do Brasil e oferecerá a capacidade de entender as disparidades de saúde em níveis locais.
 
-Antes da execução do projeto, foi realizado um brainstorming para definir a execução do projeto utilizando a plataforma de colaboração Miro. Este processo colaborativo resultou em um caminho lógico claro para a execução do projeto. Abaixo se encontra imagem que resume o processo.
+Antes da execução do projeto, foi realizado um brainstorming para definir a execução do trabalho utilizando a plataforma de colaboração Miro. Este processo colaborativo resultou em um caminho lógico claro para a execução do projeto. Abaixo se encontra imagem que resume o processo.
 
 ### Fluxograma do Projeto de Desigualdade de Saúde
-![Fluxograma do Projeto de Desigualdade de Saúde](https://github.com/michelszklo/residencia/assets/167810039/d24a8a0a-92bd-462b-b116-e8da32da3b41)
+![](https://github.com/michelszklo/residencia/assets/167810039/571a2096-25f7-4314-8297-401aa149dcc2)
 
 O fluxograma é organizado em várias etapas, com diferentes formas representando elementos distintos do processo:
 
