@@ -18,7 +18,7 @@ O fluxograma é organizado em várias etapas, com diferentes formas representand
 Em resumo, a imagem acima ilustra o processo detalhado que começa com a extração e transformação dos dados, passa pela unificação das bases de dados, criação de indicadores e culmina na análise dos dados, que inclui a geração de gráficos e mapas para visualização dos resultados. Este caminho lógico, colaborativamente elaborado e visualizado na plataforma Miro, estrutura a execução do projeto de maneira clara e organizada.
 
 ### Análise dos dados
-
+#### APGAR
 A escala de APGAR é um teste realizado logo após o nascimento do bebê para avaliar sua vitalidade e estado geral. A avaliação é feita tanto ao final do primeiro quanto do quinto minuto após o nascimento. Um resultado superior a 7 é considerado normal, indicando menor risco de complicações pós-nascimento, como infecções e hipoglicemia. Fatores como gravidez de risco, parto por cesárea, complicações no parto e nascimentos antes de 37 semanas podem influenciar a pontuação. Pontuações baixas podem levar à internação na neonatologia para cuidados específicos e garantir um desenvolvimento saudável.
 
 Observa-se que a maioria dos municípios apresenta uma pontuação na escala de APGAR acima de 7, havendo uma notável melhoria ao comparar os dados de 2010 e 2022. No último ano mencionado, o mapa exibe tons mais escuros, sugerindo uma incidência maior de pontuações mais altas na escala. Apesar do progresso, as regiões norte e nordeste continuam a ter as pontuações mais baixas em 2022, refletindo um desempenho inferior em relação às demais regiões.
@@ -34,3 +34,9 @@ A tendência positiva sugere que, em regiões ou populações com uma taxa de mo
 O gráfico de dispersão e a análise de regressão sugerem uma correlação positiva entre log(taxa de mortalidade) e o APGAR no 1º minuto. Essa relação é forte e consistente na faixa intermediária dos dados, mas mostra mais variabilidade nas extremidades. A natureza contra-intuitiva dessa relação sugere que outros fatores contextuais e variáveis de confusão devem ser considerados para uma interpretação mais completa desses resultados. O vídeo abaixo sintetiza a análise.
 
 https://github.com/michelszklo/residencia/assets/167810039/ddb77fd7-b133-4b9d-8dad-4e4ed8cb8f94
+
+#### Taxa de mortalidade
+
+O mapa abaixo oferece uma visualização clara de como a taxa de mortalidade variou em diferentes partes do Brasil ao longo de uma década. Em 2010, algumas áreas no norte e nordeste do Brasil apresentam tonalidades mais claras, indicando taxas de mortalidade relativamente mais altas. Em 2020, há uma visível mudança em algumas dessas regiões, com certas áreas apresentando uma tonalidade mais escura, o que pode indicar uma redução na taxa de mortalidade ou uma melhor cobertura de dados. Já em algumas áreas do sudeste e sul do Brasil, as mudanças são menos perceptíveis, mantendo uma tonalidade consistentemente escura, sugerindo taxas de mortalidade mais baixas que se mantiveram estáveis.
+
+![Mapa_mortalidade (1)](https://github.com/michelszklo/residencia/assets/167810039/62054fe2-5f35-480d-920e-cdfa4e3c4029)
