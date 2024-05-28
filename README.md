@@ -21,7 +21,8 @@ Em resumo, a imagem acima ilustra o processo detalhado que começa com a extraç
 
 A escala de APGAR é um teste realizado logo após o nascimento do bebê para avaliar sua vitalidade e estado geral. A avaliação é feita tanto ao final do primeiro quanto do quinto minuto após o nascimento. Um resultado superior a 7 é considerado normal, indicando menor risco de complicações pós-nascimento, como infecções e hipoglicemia. Fatores como gravidez de risco, parto por cesárea, complicações no parto e nascimentos antes de 37 semanas podem influenciar a pontuação. Pontuações baixas podem levar à internação na neonatologia para cuidados específicos e garantir um desenvolvimento saudável.
 
-Observa-se que a maioria dos municípios apresenta uma pontuação na escala de APGAR acima de 7, havendo uma notável melhoria ao comparar os dados de 2010 e 2022. No último ano mencionado, o mapa exibe tons mais escuros, sugerindo uma incidência maior de pontuações mais altas na escala. Apesar desse avanço, as regiões com pontuações mais baixas ainda permanecem como as de menor desempenho em 2022.
+Observa-se que a maioria dos municípios apresenta uma pontuação na escala de APGAR acima de 7, havendo uma notável melhoria ao comparar os dados de 2010 e 2022. No último ano mencionado, o mapa exibe tons mais escuros, sugerindo uma incidência maior de pontuações mais altas na escala. Apesar do progresso, as regiões norte e nordeste continuam a ter as pontuações mais baixas em 2022, refletindo um desempenho inferior em relação às demais regiões.
+
 
 ![mapa1](https://github.com/michelszklo/residencia/assets/167810039/20c05910-eca7-4d3d-ab7b-0896edec046a)
 ![mapa2](https://github.com/michelszklo/residencia/assets/167810039/979100e6-2137-47e6-8bc2-f276a2ad01e1)
