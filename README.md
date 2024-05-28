@@ -9,7 +9,13 @@ Antes da execução do projeto, foi realizado um brainstorming para definir a ex
 ### Fluxograma do Projeto de Desigualdade de Saúde
 ![Fluxograma do Projeto de Desigualdade de Saúde](https://github.com/michelszklo/residencia/assets/167810039/d24a8a0a-92bd-462b-b116-e8da32da3b41)
 
-O fluxograma ilustra o processo detalhado que começa com a extração e transformação dos dados, passa pela unificação das bases de dados, criação de indicadores e culmina na análise dos dados, que inclui a geração de gráficos e mapas para visualização dos resultados. Este caminho lógico, colaborativamente elaborado e visualizado na plataforma Miro, estrutura a execução do projeto de maneira clara e organizada.
+O fluxograma é organizado em várias etapas, com diferentes formas representando elementos distintos do processo:
+
+- Quadrados Verdes: Representam bases de dados.
+- Círculos Azuis: Representam scripts ou processos.
+- Losangos Brancos: Representam outputs ou produtos finais.
+
+Em resumo, o fluxograma ilustra o processo detalhado que começa com a extração e transformação dos dados, passa pela unificação das bases de dados, criação de indicadores e culmina na análise dos dados, que inclui a geração de gráficos e mapas para visualização dos resultados. Este caminho lógico, colaborativamente elaborado e visualizado na plataforma Miro, estrutura a execução do projeto de maneira clara e organizada.
 
 Link para o Miro: https://miro.com/app/board/uXjVKQm9sQI=/?share_link_id=611627772927
 
