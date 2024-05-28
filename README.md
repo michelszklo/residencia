@@ -27,3 +27,10 @@ Observa-se que a maioria dos municípios apresenta uma pontuação na escala de 
 ![mapa1](https://github.com/michelszklo/residencia/assets/167810039/20c05910-eca7-4d3d-ab7b-0896edec046a)
 ![mapa2](https://github.com/michelszklo/residencia/assets/167810039/979100e6-2137-47e6-8bc2-f276a2ad01e1)
 
+Ainda sobre o APGAR, quando se analisa a distribuição dos pontos de dados, a maioria destes está agrupada em torno dos valores médios de log(taxa de mortalidade). Alguns pontos estão dispersos nas extremidades inferiores e superiores de log(taxa de mortalidade), o que pode indicar outliers ou simplesmente valores menos comuns no conjunto de dados.
+
+A tendência positiva sugere que, em regiões ou populações com uma taxa de mortalidade geral mais alta, os recém-nascidos tendem a ter um Apgar score mais alto no 1º minuto. Isso pode parecer contra-intuitivo, pois esperaríamos que uma maior taxa de mortalidade geral estivesse associada a piores condições de saúde. É importante investigar possíveis fatores subjacentes ou variáveis de confusão que possam explicar essa relação.
+
+O gráfico de dispersão e a análise de regressão sugerem uma correlação positiva entre log(taxa de mortalidade) e o APGAR no 1º minuto. Essa relação é forte e consistente na faixa intermediária dos dados, mas mostra mais variabilidade nas extremidades. A natureza contra-intuitiva dessa relação sugere que outros fatores contextuais e variáveis de confusão devem ser considerados para uma interpretação mais completa desses resultados. O vídeo abaixo sintetiza a análise.
+
+https://github.com/michelszklo/residencia/assets/167810039/ddb77fd7-b133-4b9d-8dad-4e4ed8cb8f94
