@@ -7,7 +7,7 @@ A desigualdade de saúde é um problema crítico que prevalece nos países em de
 Antes da execução do projeto, foi realizado um brainstorming para organizar a execução do trabalho utilizando a plataforma de colaboração Miro. Este processo colaborativo resultou em um caminho lógico claro para a execução do projeto. Abaixo se encontra imagem que resume o processo.
 
 ### Fluxograma do Projeto de Desigualdade de Saúde
-![](https://github.com/michelszklo/residencia/assets/167810039/571a2096-25f7-4314-8297-401aa149dcc2)
+![](https://github.com/michelszklo/residencia/assets/167810039/dc40532f-a6e4-4a21-bd38-d9a1ca8d8315)
 
 O fluxograma é organizado em várias etapas, com diferentes formas representando elementos distintos do processo:
 
